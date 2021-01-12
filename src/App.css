@@ -1,0 +1,45 @@
+.wrapper{
+  padding: 20px;
+}
+label {
+  display: block;
+}
+.form-login{
+  border: 1px solid rgb(163, 163, 163);
+  width: 500px;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 30px 0;
+}
+.form-login form{
+  display: flex;
+}
+.form-login table{
+  margin: 100px auto;
+  height: 200px;
+}
+.form-login table tr {
+  padding: 20px 0;
+}
+.form-login table input {
+  width: 100%;
+}
+ul{
+  list-style: none;
+  padding-inline-start: 0px !important;
+}
+ul li {
+  cursor: pointer;
+}
+.activeClass{
+  background-color:  #9b9a9a;
+}
+.dashboard{
+  text-align: right;
+}
+.form-control{
+  display: inline;
+  width: auto;
+}
+
+

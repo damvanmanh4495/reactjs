@@ -1,0 +1,12 @@
+.category_item{
+    background-color: #b4b2b2;
+    color: #fff;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+    transition: 0.4s;
+}
+.category_item:hover {
+    background-color: #9b9a9a ;
+}
+
